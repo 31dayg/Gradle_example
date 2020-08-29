@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HelloTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-29T17:25:58" hostname="LP-DRODRIGUEZ2" time="0.006">
+  <properties/>
+  <testcase name="testGetHello" classname="HelloTest" time="0.006"/>
+  <system-out><![CDATA[Antes del test
+Este es el test
+Despues del test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
